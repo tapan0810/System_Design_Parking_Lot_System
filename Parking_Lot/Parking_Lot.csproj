@@ -8,11 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Factory\" />
     <Folder Include="Admin\" />
     <Folder Include="Services\" />
-    <Folder Include="Strategies\" />
   </ItemGroup>
 
 </Project>
