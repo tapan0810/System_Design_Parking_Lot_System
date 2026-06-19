@@ -6,6 +6,7 @@ namespace Parking_Lot.Enums
 {
     public enum SpotStatus
     {
+
         Free,
         Occupied
     }
