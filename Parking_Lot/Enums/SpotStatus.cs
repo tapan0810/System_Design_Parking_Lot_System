@@ -8,6 +8,7 @@ namespace Parking_Lot.Enums
     {
 
         Free,
+
         Occupied
     }
 }
