@@ -8,6 +8,7 @@ namespace Parking_Lot.Services
 {
     public class DisplayService
     {
+
         public void UpdateDisplay(List<ParkingSpot> spots)
         {
             Console.WriteLine();
